@@ -27,13 +27,16 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+ - Age around 20-25
+ - Is never use trading/investing apps before
+ - Has no knowledge to trading/investing
+ - Use smartphone in daily basis
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ - Age around 20-25
+ - Has ever use trading/investing apps before
+ - Has knowledge to trading/investing
+ - Use smartphone in daily basis
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
@@ -52,9 +55,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### a. Transcript with Participant 1
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+ 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
