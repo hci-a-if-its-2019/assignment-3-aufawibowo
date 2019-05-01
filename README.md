@@ -1,27 +1,9 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
-
 ## Operating the Prototype
 [![Prototype Video](img/youtube.JPG)](https://youtu.be/hrTo85CiA-8)
 
----
-
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
-
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
-
 #### a. Description of Participant 1
  - Age around 20-25
  - Is never use trading/investing apps before
@@ -39,9 +21,7 @@
 2. Buy and Sell Stock
 3. Find stock's financial fact
 
-
 ### 3. Transcript
-
 
 #### a. Transcript with Participant 1
  1. **You**: Mari kita mulai. Terimakasih sebelumnya karena sudah mau membantu tugas saya. Ini adalah prototipe aplikasi trading mandiri sekuritas. Pernah trading/investasi saham sebelumnya?
@@ -79,7 +59,6 @@
 12. **Participant**: Ya itu tadi soal search bar.
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1 (Login Operation)
 ![Login page](img/Login&#32;Page.png)
@@ -90,43 +69,32 @@
  - **Reason**: None.
  - **Resolution**: Design a new login page.
  
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+#### OBSERVATION 2 (Buy / Sell Operation)
+![Buy Stock Page](img/Buy&#32;Stock&#32;Page.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Participant 1: 8, Participant 2: 2
+ - **Feedback**: Overall good. Buy Stock Page is still the same with current app.
+ - **Incidence**: None.
+ - **Reason**: None.
+ - **Resolution**: Design a new login page.
  
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+#### OBSERVATION 3 (Financial Fact)
+![Financial Fact Page](img/Stock&#32;Information&#32;Page&#32;-&#32;Financials.jpg)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+ - **Reference**: Participant 1: 16, Participant 2: 8
+ - **Feedback**: There is no search bar to find another stock.
+ - **Incidence**: None.
+ - **Reason**: None.
+ - **Resolution**: Add search bar.
+
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
-
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](img/photo_2019-05-02_00-56-09.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+It is important that design should address spesific user. Not all user able to intuitively interact with the design that designers create. Hence, user-based design is fundamental to determine the design itself.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+[![Prototype Video](img/youtube.JPG)](https://youtu.be/5Ld8zJJRrFU)
