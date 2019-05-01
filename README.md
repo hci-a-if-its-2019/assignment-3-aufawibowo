@@ -5,11 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](img/youtube.jpg)](https://youtu.be/hrTo85CiA-8)
 
 ---
 
@@ -39,43 +35,60 @@
  - Use smartphone in daily basis
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+1. Login
+2. Buy and Sell Stock
+3. Find stock's financial fact
+
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
+
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Mari kita mulai. Terimakasih sebelumnya karena sudah mau membantu tugas saya. Ini adalah prototipe aplikasi trading mandiri sekuritas. Pernah trading/investasi saham sebelumnya?
+ 2. **Participant**: Belum
+ 3. **You**: Oke gapapa. Ada beberapa objektif yang harus kamu lakukan untuk mendapatkan feedback dari prototipe ini. Yang pertama, coba kamu menggunakan fitur login. Oh iya beberapa fitur hanya sebagai dummy, jadi tidak terlalu nyata. 
+ 4. **Participant**: Aneh sih karena mungkin ini bukan apps beneran ya
+ 5. **You**: Well, iya makanya itu beberapa fitur nanti cuma tampilan aja. Oke login sudah berhasil selanjutnya dari halaman itu coba kita bertansaksi saham. Lakukan proses jual atau beli saham
+ 6. **Participant**: Oke ini sudah
+ 7. **You**: Gimana rasanya?
+ 8. **Participant**: Bagus kok. Cuma rasanya ini ditaruh sini semua ya?
+ 9. **You**: Iya. Oke berikutnya kita coba cari namanya laporan keuangan perusahaan. Mungkin agak sulit tapi coba kamu cari.
+ 10. **Participant**: Laporan perusahaan itu bentuknya gimana?
+ 11. **You**: Nanti ada halaman yang menunjukkan chart-chart aneh yang isinya ada kata-kata kaya net income, profit intinya berbau keuangan atau bisnis.
+ 12. **Participant**: Mutual funds ini apa?
+ 13. **You**: Oh itu nama lainnya reksadana. Tapi kamu gabakal nemu apa-apa disitu karena kosong.
+ 14. **Participant**: Iya, barusan aku liat. Oh di stock information ini?
+ 15. **You**: Gatau coba aja.
+ 16. **Participant**: Hmm lumayan bagus.
+ 17. **You**: Nah oke kamu nemu. Itu namanya financial fact atau laporan keuangan perusahaan. Jadi overall gimana setelah mencoba prototipe aplikasi ini?
+ 18. **Participant**: Cukup intuitif rasanya karena ada icon-icon dan judul yang jelas yang mungkin merefer ke action berikutnya. Tapi ya karena ini cuma prototipe jadi ya gabener-bener nyata.
+ 19. **You**: Oke, terimakasih ya.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **You**: Halo wkwkwk. Langsung aja ya, ini aku punya prototipe trading appsnya mandiri sekuritas. Nah ada tiga hal yang harus kamu lakukan. Ya tipikal lah kaya apps lainnya. Nah coba nanti kamu kasih komentar tentang prototipeku ini. 
+2. **Participant**: Loh bentar ini kok halaman utamanya tetep?
+3. **You**: Iya ada beberapa halaman yang aku ambil dari apps nya langsung supaya tetep *remain high* di problem yang aku tangani. Oke, yang pertama coba login, terus order beli/jual. Gampang lah ya.
+4. **Participant**: Yah kok ga diganti tampilan jual-belinya?
+5. **You**: heheheh
+6. **Participant**: Mungkin kalo diganti supaya selaras gitu baru kerasa bedanya.
+7. **You**: Yes bener. oke ini yang terakhir ya coba cari informasi laporan keuangan saham tertentu.
+8. **Participant**: Ini ga ada search barnya ya? Agak kesulitan sih ini kalo cari satu-satu. Atau emang ini karena prototipe?
+9. **You**: I see, thanks for notice in it. Iya berarti emang harus ada search bar disitu.
+10. **Participant**: Oke ini overall konsepnya bagus kok aku lihat.
+11. **You**: thank you, any comment?
+12. **Participant**: Ya itu tadi soal search bar.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+#### OBSERVATION 1 (Login Operation)
+![Login page](img/Login&#32;Page.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Participant 1: 8, Participant 2: 2
+ - **Feedback**: Welcome page and login page is still the same with current app.
+ - **Incidence**: None.
+ - **Reason**: None.
+ - **Resolution**: Design a new login page.
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
